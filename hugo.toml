@@ -1,0 +1,11 @@
+baseURL = 'https://mrnuclear.monster/'
+languageCode = 'en-us'
+title = 'MrNuclear.Monster'
+theme = "LucentLink-Hugo"
+minVersion = "0.115.0"
+
+[params]
+	description= "Mr Nuclear Monster's links page, enjoy."
+
+[outputs]
+  home = ["HTML"]
