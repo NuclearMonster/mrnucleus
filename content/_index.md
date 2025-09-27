@@ -2,84 +2,55 @@
 title: "LucentLink"
 # Profile settings
 profileImage: "images/img.jpg"        # path under static/
-name: "cx48"
+name: "Mr. Nuclear Monster"
 description: ""
 socials:
-  - url: "https://twitter.com/yourhandle"
-    icon: "fab fa-twitter"
-  - url: "https://instagram.com/yourhandle"
+  - url: "https://mastodon.social/@MrNuclearMonster/"
+    icon: "fab fa-mastodon"
+  - url: "https://www.instagram.com/mrnuclearmonster/"
     icon: "fab fa-instagram"
-  - url: "https://github.com/you"
+  - url: "https://github.com/NuclearMonster"
     icon: "fab fa-github"
-  - url: "https://linkedin.com/in/yourhandle"
-    icon: "fab fa-linkedin"
-  - url: "https://youtube.com/yourchannel"
+  - url: "https://bsky.app/profile/mrnuclear.monster"
+    icon: "fab fa-bluesky"
+  - url: "https://youtube.com/nuclearmonster"
     icon: "fab fa-youtube"
 
 # You can add as many links as you want!
 
 # Link cards
 links:
-  - href: "https://your.site"
+  - href: "https://nuclearmonster.com"
     icon: "fas fa-globe"
-    title: "Personal Website"
-    description: "Check out my portfolio"
-  - href: "https://blog.your.site"
-    icon: "fas fa-blog"
-    title: "My Blog"
-    description: "Read my latest articles"
-  - href: "https://github.com/you"
+    title: "Nuclear Monster Website"
+  - href: "https://github.com/NuclearMonster"
     icon: "fab fa-github"
     title: "GitHub"
     description: "Explore my open-source projects"
-  - href: "https://youtube.com/yourchannel"
+  - href: "https://www.twitch.tv/mrnuclearmonster"
+    icon: "fab fa-twitch"
+    title: "Twitch"
+    description: "Watch me learn German, geoguess, and play games on Twitch"
+  - href: "https://youtube.com/nuclearmonster"
     icon: "fab fa-youtube"
     title: "YouTube Channel"
-    description: "Watch my tutorials"
-  - href: "https://course.your.site"
+    description: "Watch my Videos on YouTube"
+  - href: "https://web.archive.org/web/20250630045031/https://www.tiktok.com/@mrnuclearmonster"
+    icon: "fab fa-tiktok"
+    title: "TikTok"
+    description: "My TikToks"
+  - href: "https://nuclearmonster.com/language-learning-resources/"
     icon: "fas fa-book"
-    title: "Online Course"
-    description: "Learn web development"
-  - href: "https://buymeacoffee.com/you"
+    title: "Language Learning Resources"
+    description: "My tips for learning languages"
+  - href: "https://ko-fi.com/mrnuclearmonster"
     icon: "fas fa-coffee"
     title: "Buy Me a Coffee"
-    description: "Support my work"
-  - href: "mailto:you@example.com"
-    icon: "fas fa-envelope"
-    title: "Contact Me"
-    description: "For collaborations"
-  - href: "https://newsletter.your.site"
-    icon: "fas fa-newspaper"
-    title: "Newsletter"
-    description: "Subscribe for updates"
-  - href: "https://podcast.your.site"
-    icon: "fas fa-podcast"
-    title: "Podcast"
-    description: "Listen to my show"
-
-# Spotify playlist embed. You can add embed by rigth clicking on your spotify playlist -> Share -> Copy embed. After copying the embed, replace it with the iframe below.
-spotifyPlaylist:
-  iframe: '<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/6zcsSLDrLiCpX8KDzNiIhS?utm_source=generator" width="100%" height="152" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>'
-
-# Messaging Etiquette. You can add new rules as per your needs.
-messaging:
-  title: "Messaging Etiquette"
-  items:
-    - icon: "fas fa-check-circle"
-      color: "text-green-400"
-      text: "Please include context about why you're reaching out and how I can help."
-    - icon: "fas fa-check-circle"
-      color: "text-green-400"
-      text: "For collaboration requests, include details about the project scope and timeline."
-    - icon: "fas fa-check-circle"
-      color: "text-green-400"
-      text: "I typically respond within 2-3 business days for professional inquiries."
-    - icon: "fas fa-times-circle"
-      color: "text-red-400"
-      text: "Please don't send unsolicited sales pitches or recruitment messages."
-
-
-
+    description: "Support my work via Ko-Fi"
+  - href: "https://www.patreon.com/nuclearmonster"
+    icon: "fas fa-patreon"
+    title: "Patreon"
+    description: "Support my work via Patreon"
 
 # About section (optional section)
 
