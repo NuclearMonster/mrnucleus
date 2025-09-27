@@ -38,7 +38,7 @@ links:
   - href: "https://web.archive.org/web/20250630045031/https://www.tiktok.com/@mrnuclearmonster"
     icon: "fab fa-tiktok"
     title: "TikTok"
-    description: "My TikToks"
+    description: "Watch my TikTok videos"
   - href: "https://nuclearmonster.com/language-learning-resources/"
     icon: "fas fa-book"
     title: "Language Learning Resources"
