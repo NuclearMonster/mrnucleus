@@ -1,6 +1,7 @@
 *.swp
 *tags
 *~
+/.nova/
 /.vscode/
 /public/
 .hugo_build.lock
